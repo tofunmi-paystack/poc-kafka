@@ -1,0 +1,6 @@
+# FOLDERS
+.idea/
+node_modules/
+
+# FILES
+.env
